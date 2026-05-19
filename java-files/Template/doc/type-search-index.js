@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"ch.tbz.lib","l":"Input"},{"p":"ch.tbz","l":"Main"}];updateSearchResults();
