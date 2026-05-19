@@ -91,7 +91,7 @@ public class rechner {
 
 ### UML Activity Diagramm
 
-Strukturen erklärt.
+Hier werden die Strukturen eines UML's erklärt..
 
 ![alt text](images/uml_screen.png)
 
