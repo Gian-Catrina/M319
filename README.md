@@ -91,9 +91,44 @@ public class rechner {
 
 ### UML Activity Diagramm
 
-Hier werden die Strukturen eines UML's erklärt..
+**Hier werden die Strukturen eines UML's erklärt.**
 
 ![alt text](images/uml_screen.png)
+
+---
+
+### Variables Constants
+
+**Hier ein Bild, das Datentypen erklärt.**
+
+![alt text](datatypes.png)
+
+**Und hier ein passender Beispiel-Code:**
+```java
+	System.out.println("Double min: " + Double.MIN_VALUE);        
+	System.out.println("Double max: " + Double.MAX_VALUE);        
+	System.out.println("Float  min: " + Float.MIN_VALUE);        
+	System.out.println("Float  max: " + Float.MAX_VALUE);
+```
+
+**Wie man Variablen definiert:**
+
+```java
+double preis = 120;   // Deklaration UND Initialisation
+preis = preis * 1.11; // Veränderung des Inhaltes
+```
+
+**Wie man Constans definiert:**
+
+```java
+final char CONST_C = ‘c’;
+```
+
+**Primitive vs. komplexe Datentypen**
+
+![alt text](primitive.png)
+
+
 
 
 
